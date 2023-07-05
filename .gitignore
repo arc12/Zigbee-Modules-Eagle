@@ -1,0 +1,7 @@
+*.b#?
+*.s#?
+*.zip
+
+Production/ordering_instructions.txt
+Production/*PanelizerSettings.txt
+Production/*.dru
